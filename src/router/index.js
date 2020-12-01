@@ -5,7 +5,6 @@ Vue.use(Router)
 
 let router = new Router({
     mode: 'history',
-    // base: process.env.VUE_APP_BASE_URL,
     routes: [
         {
             path: '/',
